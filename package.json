@@ -1,0 +1,29 @@
+{
+  "name": "aws-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "karma start karma.conf.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "karma-requirejs": "^1.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilampadval/awspoc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nilampadval/awspoc/issues"
+  },
+  "homepage": "https://github.com/nilampadval/awspoc#readme",
+  "description": ""
+}
